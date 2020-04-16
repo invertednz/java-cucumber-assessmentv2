@@ -16,7 +16,7 @@ performed by Test Engineers.
  - Complete the tasks which best match your skill level in the task set.
 
 
-### Must complete Tasks
+### Required Tasks
 - Complete the Purchase feature
 
 
